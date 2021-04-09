@@ -25,7 +25,7 @@
 <h1 style="text-align: center; color: blue;">IMAGE SPRITES</h1>
 
 <center>
-          <img src="https://www.espai.es/blog/wp-content/uploads/2018/09/sprites01.png">
+          <img src="https://www.espai.es/blog/wp-content/uploads/2018/09/sprites01.png" width="600" height="400">
 </center>
 
           
