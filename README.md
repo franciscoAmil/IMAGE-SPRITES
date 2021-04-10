@@ -19,7 +19,7 @@
           
 
 <hr>
-<form action="https://mywebsite.zyrosite.com/page-JrV4IhXrXIM910_oM5rdn">
+<form action="https://amilsandovalfrancisco.zyrosite.com/">
           <input type="submit" value="Regresar" style='width:100px; height:40px'/>
       </form>
 <h1 style="text-align: center; color: blue;">IMAGE SPRITES</h1>
